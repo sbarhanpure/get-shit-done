@@ -65,6 +65,7 @@ Fixes #
 - [ ] All existing tests pass (`npm test`)
 - [ ] CHANGELOG.md updated if this is a user-facing fix
 - [ ] No unnecessary dependencies added
+- [ ] For high-risk or non-trivial fixes, requested Codex Cloud review with `@codex review`
 
 ## Breaking changes
 

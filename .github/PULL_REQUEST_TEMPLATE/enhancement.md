@@ -76,6 +76,7 @@ Closes #
 - [ ] CHANGELOG.md updated
 - [ ] Documentation updated if behavior or output changed
 - [ ] No unnecessary dependencies added
+- [ ] For high-risk or non-trivial enhancements, requested Codex Cloud review with `@codex review`
 
 ## Breaking changes
 

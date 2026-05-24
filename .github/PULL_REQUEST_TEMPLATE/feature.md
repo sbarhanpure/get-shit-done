@@ -98,6 +98,7 @@ Closes #
 - [ ] Documentation updated — commands, workflows, references, README if applicable
 - [ ] No unnecessary external dependencies added
 - [ ] Works on Windows (backslash paths handled)
+- [ ] For high-risk or non-trivial features, requested Codex Cloud review with `@codex review`
 
 ## Breaking changes
 

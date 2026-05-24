@@ -31,6 +31,8 @@ PRs that arrive without a labeled, approved issue are closed without review.
 
 > **No draft PRs.** Draft PRs are automatically closed. Only open a PR when your code is complete, tests pass, and the correct template is used. See [CONTRIBUTING.md](../CONTRIBUTING.md).
 
+For high-risk or non-trivial changes, request Codex Cloud review with `@codex review`.
+
 See [CONTRIBUTING.md](../CONTRIBUTING.md) for the full process.
 
 ---
